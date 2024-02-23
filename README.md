@@ -4,6 +4,7 @@ text_summarizer
 1. git clone
     ```sh
     git clone https://github.com/mr-noww/text_summarizer.git
+    cd text_summarizer
     ```
 2. Create and activate virtual env
     ```sh

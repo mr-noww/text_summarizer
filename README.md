@@ -13,7 +13,7 @@ text_summarizer.py
     ```sh
     # Using venv (Python 3)
     python -m venv venv
-    python3 -m venv myenv
+    python3 -m venv venv
     # Activate virtual environment
     # On Windows
     .\venv\Scripts\activate

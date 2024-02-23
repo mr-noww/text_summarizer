@@ -1,12 +1,12 @@
-# text_summarizer.py
-text_summarizer.py
+# text_summarizer
+text_summarizer
 
 
 ## Installation
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/mr-noww/text_summarizer.py.git
+   git clone https://github.com/mr-noww/text_summarizer.git
    cd text_summarizer
    ```
 2. Create virtual env 

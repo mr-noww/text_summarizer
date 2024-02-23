@@ -7,7 +7,7 @@ text_summarizer.py
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/mr-noww/text_summarizer.py.git
-   cd text-summarization
+   cd text_summarizer
    ```
 2. Create virtual env 
     ```sh

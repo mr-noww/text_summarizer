@@ -1,50 +1,20 @@
 # text_summarizer
 text_summarizer
 
-
-## Installation
-
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/mr-noww/text_summarizer.git
-   cd text_summarizer
-   ```
-2. Create virtual env 
+1. git clone
     ```sh
-    # Using venv (Python 3)
+    git clone https://github.com/mr-noww/text_summarizer.git
+    ```
+2. Create and activate virtual env
+    ```sh
     python -m venv venv
-    python3 -m venv venv
-    # Activate virtual environment
-    # On Windows
     .\venv\Scripts\activate
-    # On Unix or MacOS
-    source venv/bin/activate
     ```
 3. Install Dependencies
     ```sh
-    # windows
     pip install -r requirements.txt
-    
-    # mac
-    pip install -r requirements.txt
-    
     ```
-4. Download NLTK Resources
+4. Run Project
     ```sh
-    # windows
-    python -m nltk.downloader punkt
-    python -m nltk.downloader stopwords
-
-
-    # mac
-    python3 -m nltk.downloader punkt
-    python3 -m nltk.downloader stopwords
-    ```
-5. Run Project
-    ```sh
-    # windows
-    python3 text_summarizer.py
-    
-    #mac
-    python3 text_summarizer.py
+    python text_summarizer.py
     ```
